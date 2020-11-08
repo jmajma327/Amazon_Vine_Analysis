@@ -22,4 +22,4 @@ The purpose of this challenge was to analyze Amazon reviews paid and non paid re
 
 
 # Summary
-In my anaylisis there was no paid reviews for ebook purchases, so maybe they should have paid reviews so they can compare their results. If there were paid reviews then we could compare to see if  there is positive or negative biased. 
+In my anaylisis there was no paid reviews for ebook purchases, so maybe they should have paid reviews so they can compare their results. If there were paid reviews then we could compare to see if  there is positive or negative biased. If there were paid reviews for this product, I owuld find the average of paid and unpaid reviews and based on those results I could see if there was a positive or negative biased. It would postive if the averages were close in numbers typically within 1%. It would be a negative bias if the averages are 50% more difference.
